@@ -24,4 +24,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/backspace-studios/byte.git
+   git clone https://github.com/Backspace-Studios/Byte.git
